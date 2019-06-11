@@ -51,15 +51,15 @@ rardray@gmail.com
 
 ## DEPLOYED WEB APPS
 
-- [Grocery List and Meal Planning App](https://evening-shelf-20638.herokuapp.com) [code](https://github.com/rardray/grocery-list-using-walmart-open-api)
+- [Grocery List and Meal Planning App](https://evening-shelf-20638.herokuapp.com). View [code](https://github.com/rardray/grocery-list-using-walmart-open-api)
 
-- [Blog App With Ruby On Rails](https://fast-beyond-71498.herokuapp.com) [code](https://github.com/rardray/JAN_2019_RAILS_PG_ONLY_WEB_APP)
+- [Blog App With Ruby On Rails](https://fast-beyond-71498.herokuapp.com). View [code](https://github.com/rardray/JAN_2019_RAILS_PG_ONLY_WEB_APP)
 
-- [Control Buttons UI](https://quiet-beyond-57373.herokuapp.com) [code](https://github.com/rardray/RGBA_SLIDERS)
+- [Control Buttons UI](https://quiet-beyond-57373.herokuapp.com). View [code](https://github.com/rardray/RGBA_SLIDERS)
 
-- [Simple Chat App using Socket IO](https://secret-cliffs-68362.herokuapp.com) [code](https://github.com/rardray/JUN2018-Simple-Chat-Using-socket.io)
+- [Simple Chat App using Socket IO](https://secret-cliffs-68362.herokuapp.com). View [code](https://github.com/rardray/JUN2018-Simple-Chat-Using-socket.io)
 
-- [Rails and React Stack Tutorial](https://warm-plateau-97620.herokuapp.com) [code](https://github.com/rardray/JAN2019_RAILS_PG_REACT_STACK)
+- [Rails and React Stack Tutorial](https://warm-plateau-97620.herokuapp.com). View [code](https://github.com/rardray/JAN2019_RAILS_PG_REACT_STACK)
 
 ## WORK HISTORY
 
