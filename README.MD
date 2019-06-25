@@ -107,7 +107,7 @@ I have been playing the piano for over 25 years as well as composing music as a 
 
 ## REFERENCES
 
-_Please contact_ [me](rardray@gmail.com) _for reference phone numbers_
+_Please contact_ [me](mailto:rardray@gmail.com) _for reference phone numbers_
 
 ### Bob Rockers
 
