@@ -6,7 +6,7 @@ Oklahoma City, OK 73116
 
 (805) 886 7202
 
-rardray@gmail.com
+[rardryan@gmail.com](mailto:rardray@gmail.com)
 
 [Git hub](https://github.com/rardray)
 
