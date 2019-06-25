@@ -107,7 +107,9 @@ I have been playing the piano for over 25 years as well as composing music as a 
 
 ## REFERENCES
 
-### Bob Rockers - 405-367-9425
+_Please contact_ [me](rardray@gmail.com) _for reference phone numbers_
+
+### Bob Rockers
 
 Instructor at OKCoders
 
@@ -115,7 +117,7 @@ Oklahoma City, OK
 
 Relationship - Former instructor
 
-### Matthew Mitchell - 661-809-1552
+### Matthew Mitchell
 
 Senior System Engineer at Wonderful Citrus
 
@@ -123,7 +125,7 @@ Delano, CA
 
 Relationship - Friend and mentor
 
-### Jim Bentley - 602-697-0182
+### Jim Bentley
 
 Store Manager at Alphagraphics
 
@@ -131,7 +133,7 @@ Phoenix, AZ
 
 Relationship - Former Boss
 
-### John Orr - 405-317-2460
+### John Orr
 
 Owner at Renaissance Pools
 
