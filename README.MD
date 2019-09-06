@@ -12,44 +12,36 @@ Oklahoma City, OK 73116
 
 ## TABLE OF CONTENTS
 
-- [Programming skill set](#programming-skill-set)
+- [Areas of Expertise](#areas-of-expertise)
 
-- [Applicable Skills](#applicable-skills)
-
-- [Deployed Web Apps](#deployed-web-apps)
-
-- [Work History](#work-history)
+- [Projects](#projects)
 
 - [Education](#education)
 
-- [Relevant Interest](#relevant-interests)
+- [Experience](#experience)
 
-- [References](#references)
+## Areas of Expertise
 
-## PROGRAMMING SKILL SET
-
-- Knowledge in functional programming
-- Javascript, full stack development
+- Functional programming
+- Object Oriented Programming (OOP)
+- SQL
+- noSQL
+- Javascript
 - React
 - Express
 - MongoDB
+- Postgresql
 - HTML
 - Css
 - Ruby on Rails
-- SQL
+- Comfortable working with deadlines
+- Superb communication skills
+- Self sufficient
+- Excellent problem solving ability
 
-## APPLICABLE SKILLS
+## PROJECTS
 
-- Excellent problem solving skills
-- Strong ability to understand and actualize customer needs and expectations
-- Self sufficient and driven
-- Work well under pressure
-- Years of experience working in deadline based field of graphic design
-- Desire for knowledge and self improvement
-- Always moving the bar and extending goals for self, both in professional skill set and personal interests
-- Resourceful. Able to solve problems by utilizing available resources. Not afraid to ask questions if necessary.
-
-## DEPLOYED WEB APPS
+_All listed are deployed web apps. Most are full stack using Javascript and noSQL. More projects available on my [Git hub](https://github.com/rardray)_
 
 - [Grocery List and Meal Planning App](https://evening-shelf-20638.herokuapp.com). View [code](https://github.com/rardray/grocery-list-using-walmart-open-api)
 
@@ -61,7 +53,27 @@ Oklahoma City, OK 73116
 
 - [Rails and React Stack Tutorial](https://warm-plateau-97620.herokuapp.com). View [code](https://github.com/rardray/JAN2019_RAILS_PG_REACT_STACK)
 
-## WORK HISTORY
+## EDUCATION
+
+### OKCoders Beginner Bootcamp, Oklahoma City
+
+March 2018 - June 2018
+
+Introduction to web development.
+
+### Bakersfield College, Bakersfield, CA — Two Year Certificate
+
+2001 - 2004
+
+Majored in Fine Arts and received 2 year certificate of completion in Graphic Design Program.
+
+## EXPERIENCE
+
+### OKCoders Beginner Bootcamp - Mentor, Oklahoma City
+
+October 2018 - Present
+
+Volunteering as a mentor. Helping with beginning web development courses which teach a full stack including HTML, Css, Javascript and noSQL.
 
 ### Renaissance Pools, Choctaw, Ok — Supervisor
 
@@ -80,63 +92,3 @@ In house print designer. Worked both directly and indirectly with clients to cre
 July 2005 - March 2010
 
 Primarily in house designer but also worked with print machines including finishing machines and a two color press. Clients were primarily internal. Notable projects were quarterly 30+ page magazine distributed to 10,000 + residents as well as various newspaper ads.
-
-## EDUCATION
-
-### OKCoders Beginner Bootcamp - Mentor, Oklahoma City
-
-October 2018 - Present
-
-Volunteering as a mentor.
-
-### OKCoders Beginner Bootcamp, Oklahoma City
-
-March 2018 - June 2018
-
-Introduction to web development.
-
-### Bakersfield College, Bakersfield, CA — Two Year Certificate
-
-2001 - 2004
-
-Majored in Fine Arts and received 2 year certificate of completion in Graphic Design Program.
-
-## RELEVANT INTERESTS
-
-I have been playing the piano for over 25 years as well as composing music as a hobby for about as long. There are many parallels to coding and music, mainly that they both take consistent practice, dedication and a passion for them, in order to excel. Also, they are both languages, and the way of thinking, especially in composition is very similar to that of coding. The gratification of solving a problem, seeing a concept come to fruition or achieving what you thought you could not are not mutually exclusive to either, but is the drive that keeps me passionate about them.
-
-## REFERENCES
-
-_Please contact_ [me](mailto:rardray@gmail.com) _for reference phone numbers_
-
-### Bob Rockers
-
-Instructor at OKCoders
-
-Oklahoma City, OK
-
-Relationship - Former instructor
-
-### Matthew Mitchell
-
-Senior System Engineer at Wonderful Citrus
-
-Delano, CA
-
-Relationship - Friend and mentor
-
-### Jim Bentley
-
-Store Manager at Alphagraphics
-
-Phoenix, AZ
-
-Relationship - Former Boss
-
-### John Orr
-
-Owner at Renaissance Pools
-
-Choctaw, OK
-
-Relationship - Current Boss
