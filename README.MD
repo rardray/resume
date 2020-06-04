@@ -43,7 +43,7 @@ Oklahoma City, OK 73116
 
 _All listed are deployed web apps. Most are full stack using Javascript and noSQL. More projects available on my [Git hub](https://github.com/rardray)_
 
-- [Grocery List and Meal Planning App](https://evening-shelf-20638.herokuapp.com). View [code](https://github.com/rardray/grocery-list-using-walmart-open-api)
+- [Grocery List and Meal Planning App](https://evening-shelf-20638.herokuapp.com) username: rardray@gmail.com password: Password1. View [code](https://github.com/rardray/grocery-list-using-walmart-open-api)
 
 - [Blog App With Ruby On Rails](https://fast-beyond-71498.herokuapp.com). View [code](https://github.com/rardray/JAN_2019_RAILS_PG_ONLY_WEB_APP)
 
